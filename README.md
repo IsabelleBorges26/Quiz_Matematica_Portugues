@@ -6,7 +6,7 @@ Matemática e Português
 
 ## 📖 Introdução
 
-Criação de um quiz proposto pelo professor Wellinton para a disciplina de Programação Mobile. O trabalho consistia em escolher duas matérias escolares, 
+Criação de um quiz proposto pelo professor Wellington para a disciplina de Programação Mobile. O trabalho consistia em escolher duas matérias escolares, 
 elaborar perguntas relacionadas a elas e, posteriormente, apresentar o aplicativo aos respectivos professores para que pudessem avaliar e fornecer feedback.
 
 ---
