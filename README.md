@@ -30,14 +30,23 @@ elaborar perguntas relacionadas a elas e, posteriormente, apresentar o aplicativ
 
 ## 🖼 Prints das Telas
 
-### Tela Inicial
-![Tela Inicial](imagem-tela-inicial.png)
+### Telas De Matemática
+![Tela Inicial](1.png)
+![Tela Inicial](2.png)
+![Tela Inicial](3.png)
+![Tela Inicial](4.png)
+![Tela Inicial](5.png)
+![Tela Inicial](6.png)
 
-### Tela das Perguntas
-![Tela das Perguntas](imagem-tela-perguntas.png)
+### Telas De Português
+![Tela Inicial](1.png)
+![Tela Inicial](2.png)
+![Tela Inicial](3.png)
+![Tela Inicial](4.png)
+![Tela Inicial](5.png)
+![Tela Inicial](6.png)
 
-### Tela de Resultado
-![Tela de Resultado](imagem-tela-resultado.png)
+
 
 ---
 
