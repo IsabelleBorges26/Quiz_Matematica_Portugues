@@ -39,12 +39,12 @@ elaborar perguntas relacionadas a elas e, posteriormente, apresentar o aplicativ
 ![Tela Inicial](6.png)
 
 ### Telas De Português
-![Tela Inicial](1.png)
-![Tela Inicial](2.png)
-![Tela Inicial](3.png)
-![Tela Inicial](4.png)
-![Tela Inicial](5.png)
-![Tela Inicial](6.png)
+![Tela Inicial](1P.png)
+![Tela Inicial](2P.png)
+![Tela Inicial](3P.png)
+![Tela Inicial](4P.png)
+![Tela Inicial](5P.png)
+![Tela Inicial](6P.png)
 
 
 
