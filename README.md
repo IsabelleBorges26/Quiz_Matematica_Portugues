@@ -46,29 +46,25 @@ elaborar perguntas relacionadas a elas e, posteriormente, apresentar o aplicativ
 ![Tela Inicial](5P.png)
 ![Tela Inicial](6P.png)
 
-
-
 ---
 
 ## 👨‍🏫 Professor Avaliador
 
-**Nome do professor:** Welliton Fábio
+**Nome do professor:** Wellington Fábio
 
 ---
 
 ## 📝 Comentário do Professor
 
-**Professor de matemática:** José
+**Professor de matemática:** Samantha Antonaci
 
 Comentário sobre o quiz:
 
-- Se gostou  
-- Pontos positivos
+Gostou muito! Disse que é um aplicativo fácil de jogar, com a presença de cores fortes e lindas, além de um app  muito funcional!
 
 **Professor de português:** Eliana Sambo Machado
 
 Comentário sobre o quiz:
 
-- Se gostou  
-- Pontos positivos  
-- Sugestões de melhoria  
+Primeiramente, ela adorou a ideia, disse que é super legal.
+No final, ela disse que é um aplicativo super interativo, eficaz e  pedagógico
